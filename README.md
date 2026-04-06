@@ -269,4 +269,4 @@ Created with ?? for financial awareness and smart money management.
 
 ---
 
-**Made with Kotlin & Jetpack Compose** ??
+**Made with Kotlin & Jetpack Compose** 
