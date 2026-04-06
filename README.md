@@ -1,41 +1,41 @@
-# ?? Finance Companion
+# Finance Companion
 
 A powerful, feature-rich Android finance tracking app built with Kotlin, Jetpack Compose, and Material Design 3. Track your income and expenses, monitor your financial goals, and gain insights into your spending habits with OCR-powered receipt scanning.
 
 ---
 
-## ? Features
+## Features
 
-### ?? Core Transaction Management
+### Core Transaction Management
 - **Track Income & Expenses** - Categorize transactions with 8 intelligent categories
 - **Real-time Balance** - View current balance, total income, and total expenses at a glance
 - **Transaction History** - Browse all transactions with filtering and sorting options
 - **Quick Add** - Add transactions via floating action button with minimal taps
 
-### ?? Smart Features
+### Smart Features
 - **OCR Receipt Scanner** - Capture or upload receipts and auto-extract amounts using Google ML Kit
 - **Auto Category Detection** - AI-powered category suggestions based on extracted text
 - **Merchant Recognition** - Optional merchant/category hints from receipt OCR
 
-### ?? Goal Tracking
+### Goal Tracking
 - **Emergency Fund** - Set savings targets with visual progress tracking
 - **7-Day Streak** - Build spending discipline with daily check-ins
 - **No Spend Challenge** - Challenge yourself to go days without spending
 - **Auto-Completion** - Goals automatically mark as complete when targets are reached
 
-### ?? Insights & Analytics
+### Insights & Analytics
 - **Weekly Comparison** - Compare this week vs. last week spending with percentages
 - **Monthly Breakdown** - Category-wise expense analysis with graphical representation
 - **Top Category** - Identify your biggest spending category
 - **Average Transaction** - Track spending patterns and averages
 
-### ?? Customization
+### Customization
 - **Dark Mode** - Complete dark theme with Material Design 3 colors
 - **Currency Selection** - Switch between multiple currencies (?, $, �, etc.)
 - **Sound & Haptics** - Optional haptic feedback for interactions
 - **Biometric Lock** - Fingerprint authentication for app security
 
-### ?? Settings & Utilities
+### Settings & Utilities
 - **Daily Notifications** - Customizable spending reminders (7 unique messages)
 - **Export Data** - Download transactions as CSV or PDF
 - **Clear All Data** - Factory reset with confirmation
@@ -43,7 +43,7 @@ A powerful, feature-rich Android finance tracking app built with Kotlin, Jetpack
 
 ---
 
-## ?? Screens & Modules
+## Screens & Modules
 
 | Screen | Description |
 |--------|-------------|
@@ -58,7 +58,7 @@ A powerful, feature-rich Android finance tracking app built with Kotlin, Jetpack
 
 ---
 
-## ??? Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -84,7 +84,7 @@ A powerful, feature-rich Android finance tracking app built with Kotlin, Jetpack
 
 ---
 
-## ?? Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Android Studio (2024.1 or later)
@@ -173,7 +173,7 @@ A powerful, feature-rich Android finance tracking app built with Kotlin, Jetpack
 ---
 
 
-## ?? Architecture Overview
+## Architecture Overview
 
 \\\
 finance-companion/
@@ -203,7 +203,7 @@ finance-companion/
 
 ---
 
-## ?? Performance Optimizations
+## Performance Optimizations
 
 - **Lazy Loading** - Transactions and insights load on-demand
 - **Background Processing** - OCR and data export run on IO coroutines
@@ -214,7 +214,7 @@ finance-companion/
 
 ---
 
-## ?? Security Features
+## Security Features
 
 - **Encrypted Local Storage** - DataStore stores data with encryption
 - **Biometric Authentication** - Fingerprint lock using AndroidX Biometric API
@@ -224,7 +224,7 @@ finance-companion/
 
 ---
 
-## ?? Future Roadmap
+## Future Roadmap
 
 - [ ] Cloud Sync (Firebase Firestore)
 - [ ] Multi-device Support
@@ -253,14 +253,14 @@ finance-companion/
 
 
 
-## ????? Author
+## Author
 
 Created with ?? for financial awareness and smart money management.
 
 ---
 
 
-## ?? Acknowledgments
+## Acknowledgments
 
 - Material Design 3 for modern UI guidelines
 - Google ML Kit for OCR capabilities
