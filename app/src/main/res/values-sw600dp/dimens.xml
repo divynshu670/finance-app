@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_horizontal_padding">24dp</dimen>
+    <dimen name="screen_vertical_padding">24dp</dimen>
+    <dimen name="screen_section_spacing">20dp</dimen>
+    <dimen name="screen_max_content_width">920dp</dimen>
+
+    <dimen name="sheet_horizontal_padding">24dp</dimen>
+    <dimen name="sheet_vertical_padding">12dp</dimen>
+    <dimen name="sheet_max_content_width">720dp</dimen>
+
+    <dimen name="weekly_spending_chart_height">148dp</dimen>
+    <dimen name="insights_monthly_chart_height">220dp</dimen>
+    <dimen name="home_category_donut_size">132dp</dimen>
+</resources>
